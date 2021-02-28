@@ -1,0 +1,14 @@
+
+ MEMO
+ FROM+
+------
+HOMER
+
+ 8485
+ 7358+
+------
+15843
+
+Total: 1 solution(s) acquired
+Total comparations: 105840
+Time taken by program is : 0.084000 sec 
